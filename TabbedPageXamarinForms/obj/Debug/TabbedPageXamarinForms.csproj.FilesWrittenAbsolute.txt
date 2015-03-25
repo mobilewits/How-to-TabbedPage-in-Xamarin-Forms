@@ -1,0 +1,14 @@
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TabbedPageXamarinForms/TabbedPageXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TabbedPageXamarinForms/TabbedPageXamarinForms/bin/Debug/TabbedPageXamarinForms.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TabbedPageXamarinForms/TabbedPageXamarinForms/bin/Debug/TabbedPageXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TabbedPageXamarinForms/TabbedPageXamarinForms/obj/Debug/TabbedPageXamarinForms.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TabbedPageXamarinForms/TabbedPageXamarinForms/obj/Debug/TabbedPageXamarinForms.dll.mdb
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TabbedPageXamarinForms/TabbedPageXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/HariWepuri/Desktop/Tutorials_Xamarin/TabbedPageXamarinForms/TabbedPageXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/HP V215B/Live/TabbedPageXamarinForms/TabbedPageXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/TabbedPageXamarinForms/TabbedPageXamarinForms/bin/Debug/TabbedPageXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/TabbedPageXamarinForms/TabbedPageXamarinForms/bin/Debug/TabbedPageXamarinForms.dll
+/Volumes/HP V215B/Live/TabbedPageXamarinForms/TabbedPageXamarinForms/obj/Debug/TabbedPageXamarinForms.dll
+/Volumes/HP V215B/Live/TabbedPageXamarinForms/TabbedPageXamarinForms/obj/Debug/TabbedPageXamarinForms.dll.mdb
+/Volumes/HP V215B/Live/TabbedPageXamarinForms/TabbedPageXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/HP V215B/Live/TabbedPageXamarinForms/TabbedPageXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
